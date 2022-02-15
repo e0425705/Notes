@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T18:12:46.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="L50qAeSlOxKCorIDkBVd" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-15T18:13:50.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="GHII4DrUR5ZJwMZemOkZ" version="16.5.6" type="github" pages="4">
   <diagram id="3h-9Z3lSCcHHfdDyXxEj" name="figure 1 ">
     <mxGraphModel dx="1278" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
         <mxCell id="SUUgWfrDfzdj5NUghUfH-2" value="GND" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="275" y="185" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SUUgWfrDfzdj5NUghUfH-3" value="+V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="SUUgWfrDfzdj5NUghUfH-3" value="VCC+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="279" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SUUgWfrDfzdj5NUghUfH-5" value="Signal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -329,7 +329,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QXOqkb23O3DTH22CM5Gk" name="person">
-    <mxGraphModel dx="1966" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1162" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="8yBME_1In5xzC14cGuu3-0" />
         <mxCell id="8yBME_1In5xzC14cGuu3-1" parent="8yBME_1In5xzC14cGuu3-0" />
@@ -425,7 +425,7 @@
         <mxCell id="Fsy99SBlQI8nuX2aCEOT-14" value="GND" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8yBME_1In5xzC14cGuu3-1">
           <mxGeometry x="275" y="185" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fsy99SBlQI8nuX2aCEOT-15" value="+V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8yBME_1In5xzC14cGuu3-1">
+        <mxCell id="Fsy99SBlQI8nuX2aCEOT-15" value="VCC+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8yBME_1In5xzC14cGuu3-1">
           <mxGeometry x="279" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fsy99SBlQI8nuX2aCEOT-16" value="Signal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8yBME_1In5xzC14cGuu3-1">
